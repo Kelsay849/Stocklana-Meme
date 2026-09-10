@@ -22,7 +22,7 @@
     "assets/coins/coin-12.png",
     "assets/coins/coin-13.png",
     "assets/coins/coin-solana.png",
-    "assets/logo.png",
+    "assets/coins/coin-logo.png",
   ];
 
   const coinImgs = COIN_SRCS.map((src) => {
